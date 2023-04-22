@@ -23,6 +23,12 @@
     margin: 5px;
 }
 
-.color{
-    background-color: blue;
+
+img{
+    width: 350px;
+    height: 290px;
+}
+
+.container__row--margin{
+    margin-top: 20px;
 }
