@@ -3,13 +3,26 @@
 }
 
 .container__nav--border{
-    border: 1px solid red;
+    /*border: 1px solid red;*/
+    margin: auto;
+}
+
+.collapse__a--border{
+    border-left: 1px solid black;
 }
 
 .container__enlaces--center{
-    margin: center;
+    text-align: center;
+}
+
+.container__row--padding{
+    padding: 0px 0px 30px 0px;
 }
 
 .container__img--margin{
     margin: 5px;
+}
+
+.color{
+    background-color: blue;
 }
