@@ -13,3 +13,13 @@
 .container__img--margin{
     margin: 5px;
 }
+
+
+img{
+    width: 350px;
+    height: 290px;
+}
+
+.container__row--margin{
+    margin-top: 20px;
+}
