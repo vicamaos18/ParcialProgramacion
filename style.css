@@ -32,3 +32,7 @@ img{
 .container__row--margin{
     margin-top: 20px;
 }
+.linea{
+    border: 2px solid #d33fff;
+    margin-top: -1px;
+}
