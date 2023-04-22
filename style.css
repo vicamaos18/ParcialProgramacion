@@ -1,15 +1,25 @@
 .container__h1--center{
     text-align: center;
+    font-family: 'Gulzar', serif;
+    font-family: 'Noto Serif JP', serif;
+    font-weight: bold;
 }
 
 .container__nav--border{
-    /*border: 1px solid red;*/
     margin: auto;
 }
 
 .collapse__a--border{
     border-left: 1px solid #7A7A7A;
     color: #666565;
+}
+
+.collapse__a--textCenter {
+    text-align: center;
+}
+
+.collapse__nav--ancho{
+    width: 150px;
 }
 
 .container__enlaces--center{
