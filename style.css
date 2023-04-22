@@ -4,42 +4,32 @@
     font-family: 'Noto Serif JP', serif;
     font-weight: bold;
 }
-
 .container__nav--border{
     margin: auto;
 }
-
 .collapse__a--border{
     border-left: 1px solid #7A7A7A;
     color: #666565;
 }
-
 .collapse__a--textCenter {
     text-align: center;
 }
-
 .collapse__nav--ancho{
     width: 150px;
 }
-
 .container__enlaces--center{
     text-align: center;
 }
-
 .container__row--padding{
     padding: 0px 0px 30px 0px;
 }
-
 .container__img--margin{
     margin: 5px;
 }
-
-
 .container__img--size{
     width: 350px;
     height: 290px;
 }
-
 .container__row--margin{
     margin-top: 20px;
 }
