@@ -13,6 +13,14 @@
     border-left: 1px solid black;
 }
 
+.collapse__a--textCenter {
+    text-align: center;
+}
+
+.collapse__nav--ancho{
+    width: 150px;
+}
+
 .container__enlaces--center{
     text-align: center;
 }
